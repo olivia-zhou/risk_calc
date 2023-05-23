@@ -1,0 +1,16 @@
+{
+    "experiment_name": "tabnet_risk_calc",
+    "device": "cuda",
+    "data_settings": {
+      "out_dim": 512,
+      "data_path": "path",
+      "features": "age, weight, etc",
+      "labels": "comp1, comp2, comp3"
+    },
+    "hyper_params": {
+      "max_epochs": 1000,
+      "lr": 2e-2,
+      "batch_size": 10,
+      "metric": "accuracy"
+    }
+  }

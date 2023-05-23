@@ -1,0 +1,6 @@
+matplotlib==3.5.1
+numpy==1.23.0
+pandas==1.4.2
+pytorch_tabnet==4.0
+scikit_learn==1.2.1
+torch==1.13.1
