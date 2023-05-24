@@ -11,6 +11,8 @@
       "max_epochs": 1000,
       "lr": 2e-2,
       "batch_size": 10,
-      "metric": "accuracy"
+      "metric": "accuracy",
+      "cat_idxs": 1.5,
+      "cat_dims": [1,2,3]
     }
   }
